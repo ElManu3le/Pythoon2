@@ -1,34 +1,3 @@
-Ejercicio 11
-Escribir un programa que pregunte al usuario una cantidad a invertir, el interés anual y el número de años, y muestre por pantalla el capital obtenido en la inversión.
-
 Ejercicio 14
 Una panadería vende barras de pan a 3.49€ cada una. El pan que no es el día tiene un descuento del 60%. Escribir un programa que comience leyendo el número de barras vendidas que no son del día. Después el programa debe mostrar el precio habitual de una barra de pan, el descuento que se le hace por no ser fresca y el coste final total.
 
-Ejercicio 17
-Escribird un programa que solicite al usuario el ingreso de un texto y almacene ese texto en una variable. A continuación, mostrar en pantalla la primera letra del texto ingresado. 
-Luego, solicitar al usuario que ingrese un número positivo menor a la cantidad de caracteres que tiene el texto que ingresó (por ejemplo, si escribió la palabra “HOLA”, tendrá que ser un número entre 0 y 4) y almacenar este número en una variable llamada indice. 
-Mostrar en pantalla el carácter del texto ubicado en la posición dada por indice.
-
-Ejercicio 18
-Escribid un programa que, dado un número entero, muestre su valor absoluto. Recordad que, para los números positivos su valor absoluto es igual al número (el valor absoluto de 52 es 52), mientras que, para los negativos, su valor absoluto es el número multiplicado por -1 (el valor absoluto de -52 es 52). (17)
-
-Ejercicio 19
-Escribid un programa que solicite al usuario el ingreso de dos números diferentes y muestre en pantalla al mayor de los dos. (18)
-
-Ejercicio 20
-Escribíd un programa que solicite al usuario una letra y, si es una vocal, muestre el mensaje “Es vocal”. Verificad si el usuario ingresó un string de más de un carácter y, en ese caso, informarle que no se puede procesar el dato. (19)
-
-Ejercicio 21
-Escribid un programa para solicitar al usuario tres números y mostrad en pantalla el menor de los tres. (20)
-
-Ejercicio 22
-Escribid un programa que solicite ingresar un nombre de usuario y una contraseña. Si el nombre es “Gwenevere” y la contraseña es “excalibur”, mostrad en pantalla “Usuario y contraseña correctos. Puede ingresar a Camelot”. Si el nombre o la contraseña no coinciden, mostrar “Acceso denegado”. (21)
-
-Ejercicio 23
-Escribid un programa que, dada una frase por el usuario, muestre la cantidad total de vocales (tanto mayúsculas como minúsculas) que contiene. (26)
-
-Ejercicio 24
-Escribid un programa que, dado un número entero positivo, calcule y muestre su factorial. El factorial de un número se obtiene multiplicando todos los números enteros positivos que hay entre el 1 y ese número. El factorial de 0 es 1. (28)
-
-Ejercicio 25
-Escribid un programa que, dada una frase por el usuario, la muestre invertida. (31)
