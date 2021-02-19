@@ -1,7 +1,5 @@
 "Ejercicio 3 - Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido."
 
-print('Introduce tu nombre de usuario por favor: ')
-
-nombre_user = input()
+nombre_user = input('Introduce tu nombre de usuario por favor: ')
 
 print('¡Hola <', nombre_user, '>!')

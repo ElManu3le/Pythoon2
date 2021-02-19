@@ -7,4 +7,4 @@ estatura = float(input('Ahora dime tu estatura en metros (1.80m ): \t '))
 
 imc = peso/(estatura**2)
 
-print('Tu IMC(Indice de Masa Corporal) es de ', imc)
+print('Tu IMC(Indice de Masa Corporal) es de ', round(imc,2))
