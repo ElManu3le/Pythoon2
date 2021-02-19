@@ -1,8 +1,5 @@
-print('Introduce tu nombre')
-nombre_user4 = input()
-print('Introduce el numero de veces que quieres repetir tu nombre')
-repetit = input()
+nombre_user4 = input('Introduce tu nombre')
 
-for repetit in nombre_user4:
+for x in nombre_user4:
 
-    print(repetit)
+    print(x)
